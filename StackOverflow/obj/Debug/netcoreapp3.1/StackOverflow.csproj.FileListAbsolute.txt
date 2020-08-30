@@ -1,0 +1,13 @@
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\bin\Debug\netcoreapp3.1\StackOverflow.exe
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\bin\Debug\netcoreapp3.1\StackOverflow.deps.json
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\bin\Debug\netcoreapp3.1\StackOverflow.runtimeconfig.json
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\bin\Debug\netcoreapp3.1\StackOverflow.runtimeconfig.dev.json
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\bin\Debug\netcoreapp3.1\StackOverflow.dll
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\bin\Debug\netcoreapp3.1\StackOverflow.pdb
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\obj\Debug\netcoreapp3.1\StackOverflow.csprojAssemblyReference.cache
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\obj\Debug\netcoreapp3.1\StackOverflow.AssemblyInfoInputs.cache
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\obj\Debug\netcoreapp3.1\StackOverflow.AssemblyInfo.cs
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\obj\Debug\netcoreapp3.1\StackOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\obj\Debug\netcoreapp3.1\StackOverflow.dll
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\obj\Debug\netcoreapp3.1\StackOverflow.pdb
+C:\Users\Amol Khapare\source\repos\StackOverflow\StackOverflow\obj\Debug\netcoreapp3.1\StackOverflow.genruntimeconfig.cache
